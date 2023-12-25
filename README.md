@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 
 ## I'm Miyazaki. A cyber student from Paris !
@@ -7,6 +7,4 @@
 
 ---
 
-Tu peux retrouver ici mes différents projets !
-
-Thanks  for stopping by !
+You can find my various projects here !
